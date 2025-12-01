@@ -655,5 +655,9 @@
   "SEND_EMAIL": "備份遊戲",
   "TEXT_RECOVER GAME": "恢復遊戲",
   "MESSAGE_RESTART_GAME": "單擊確定並重新啟動遊戲 ",
-  "MESSAGE_DOWNLOAD_FAIL": "下載失敗請稍後重試"
+  "MESSAGE_DOWNLOAD_FAIL": "下載失敗請稍後重試",
+  "SUCCESSFUL_LABLE": "Successfull",
+  "FAILED_LABEL": "Failed",
+  "WHAT_YOUR_CODE": "Recover Game",
+  "FIRST_DRAFT_FOR_LOCALIZATION_DONE_AT": "26-Sep-13"
 }

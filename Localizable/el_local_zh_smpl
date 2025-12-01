@@ -654,5 +654,10 @@
   "SEND_EMAIL": "备份游戏",
   "TEXT_RECOVER GAME": "恢复游戏",
   "MESSAGE_RESTART_GAME": "单击确定并重新启动游戏",
-  "MESSAGE_DOWNLOAD_FAIL": "下载失败请稍后重试"
+  "MESSAGE_DOWNLOAD_FAIL": "下载失败请稍后重试",
+  "TEXT_ALREADY_REWARDED": "You have already availed this reward, Please join our facebook page for new updates!",
+  "SUCCESSFUL_LABLE": "Successfull",
+  "FAILED_LABEL": "Failed",
+  "WHAT_YOUR_CODE": "Recover Game",
+  "FIRST_DRAFT_FOR_LOCALIZATION_DONE_AT": "26-Sep-13"
 }
