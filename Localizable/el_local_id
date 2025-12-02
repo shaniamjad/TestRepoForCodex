@@ -661,5 +661,12 @@
   "SEND_EMAIL": "バックアップゲーム",
   "TEXT_RECOVER GAME": "ゲームを回復する",
   "MESSAGE_RESTART_GAME": "[OK]をクリックし、ゲームを再起動します。 ",
-  "MESSAGE_DOWNLOAD_FAIL": "ダウンロードの失敗後でもう一度試してください"
+  "MESSAGE_DOWNLOAD_FAIL": "ダウンロードの失敗後でもう一度試してください",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "Terima",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "Tolak",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY": "Kebijakan Privasi",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "Untuk meningkatkan pengalaman Anda dengan game ini kami menganalisis cara Anda bermain. Misalnya kami mencatat jika suatu level terus-menerus gagal atau jika Anda terjebak. Aplikasi ini memiliki teknologi iklan yang dapat mempersonalisasi iklan untuk Anda jika Anda mengizinkannya. Alamat IP Anda, ID iklan perangkat, interaksi iklan, dan spesifikasi perangkat dapat digunakan untuk meningkatkan pengalaman bermain Anda. Tidak ada informasi sensitif yang dikumpulkan atau dibagikan.\nPersetujuan Anda diperlukan untuk iklan yang dipersonalisasi. Untuk detailnya Anda selalu dapat melihat kebijakan privasi kami.\nTerima kasih",
+  "TEXT_DISCLAIMER_OFFLINE_GAME": "Harap dicatat bahwa ini adalah game mode offline. Status dan data game akan hilang jika ada penghapusan data, reset ponsel, atau perubahan perangkat. Kami sedang berupaya menjaga status game Anda tetap aman pada pembaruan mendatang.",
+  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "Penafian",
+  "WATCH_AD_TO_UNLOCK": "Tonton iklan untuk membuka"
 }

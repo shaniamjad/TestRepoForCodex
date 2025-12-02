@@ -660,5 +660,12 @@
 		"TEXT_LOADING_FAIL": "1 YILDÖNÜMÜ SATIŞ",
 		"TEXT_REPORT_THIS_ISSUE": "kapalı",
 		"TEXT_REPORT": "SEVMEK",
-		"TEXT_RECOVER": "MEGA SATIŞ"
+		"TEXT_RECOVER": "MEGA SATIŞ",
+		"TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "Kabul Et",
+		"TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "Reddet",
+		"TEXT_DISCLAIMER_PRIVACY_POLICY": "Gizlilik Politikası",
+		"TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "Bu oyundaki deneyiminizi geliştirmek için nasıl oynadığınızı analiz ediyoruz. Örneğin belirli bir seviyeyi tekrar tekrar kaybedip kaybetmediğinizi veya bir yerde takılıp kalıp kalmadığınızı kaydediyoruz. Bu uygulama, izin verirseniz reklamları sizin için kişiselleştirebilen bir reklam teknolojisi kullanır. IP adresiniz, cihaz reklam kimlikleri, reklam etkileşimleri ve cihaz özellikleri oyun deneyiminizi iyileştirmek için kullanılabilir. Herhangi bir hassas bilgi toplanmaz veya paylaşılmaz.\nKişiselleştirilmiş reklamlar için onayınıza ihtiyacımız var. Ayrıntılar için gizlilik politikamıza her zaman göz atabilirsiniz.\nTeşekkürler",
+		"TEXT_DISCLAIMER_OFFLINE_GAME": "Lütfen bunun çevrimdışı modda bir oyun olduğunu unutmayın. Veri silme, telefonu sıfırlama veya cihaz değiştirme durumunda oyun durumu ve veriler kaybolacaktır. Yaklaşan güncellemelerde oyun durumunuzu güvenli tutmak için çalışıyoruz.",
+		"TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "Sorumluluk reddi",
+		"WATCH_AD_TO_UNLOCK": "Kilidi açmak için reklam izle"
 	}

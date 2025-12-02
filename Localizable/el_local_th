@@ -661,5 +661,12 @@
   "TEXT_LOADING_FAIL": "Loading Fail",
   "TEXT_REPORT_THIS_ISSUE": "It seems your game is not loading. Please report the issue so that we can fix it for you.If you have recive code from us please recover your game.",
   "TEXT_REPORT": "Report",
-  "TEXT_RECOVER": "Recover"
+  "TEXT_RECOVER": "Recover",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "ยอมรับ",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "ปฏิเสธ",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY": "นโยบายความเป็นส่วนตัว",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "เพื่อปรับปรุงประสบการณ์ของคุณกับเกมนี้ เราวิเคราะห์วิธีการเล่นของคุณ ตัวอย่างเช่น เราบันทึกว่าด่านใดล้มเหลวซ้ำ ๆ หรือคุณติดอยู่หรือไม่ แอปนี้มีเทคโนโลยีโฆษณาที่สามารถปรับโฆษณาให้เหมาะกับคุณได้หากคุณอนุญาต ที่อยู่ IP รหัสโฆษณาของอุปกรณ์ การมีส่วนร่วมกับโฆษณา และสเปกของอุปกรณ์ของคุณอาจถูกใช้เพื่อปรับปรุงประสบการณ์ในเกม ไม่มีการรวบรวมหรือแชร์ข้อมูลที่ละเอียดอ่อน\nต้องได้รับความยินยอมจากคุณสำหรับโฆษณาที่ปรับให้เป็นส่วนตัว ดูรายละเอียดได้ตลอดเวลาในนโยบายความเป็นส่วนตัวของเรา\nขอบคุณ",
+  "TEXT_DISCLAIMER_OFFLINE_GAME": "โปรดทราบว่านี่คือเกมโหมดออฟไลน์ สถานะและข้อมูลเกมจะสูญหายหากลบข้อมูล รีเซ็ตมือถือ หรือเปลี่ยนอุปกรณ์ เรากำลังทำงานเพื่อรักษาสถานะเกมของคุณให้ปลอดภัยในการอัปเดตถัดไป",
+  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "ข้อจำกัดความรับผิดชอบ",
+  "WATCH_AD_TO_UNLOCK": "ดูโฆษณาเพื่อปลดล็อก"
 }

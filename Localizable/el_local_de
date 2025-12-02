@@ -662,5 +662,12 @@
   "TEXT_LOADING_FAIL": "Loading Fail",
   "TEXT_REPORT_THIS_ISSUE": "It seems your game is not loading. Please report the issue so that we can fix it for you.If you have recive code from us please recover your game.",
   "TEXT_REPORT": "Report",
-  "TEXT_RECOVER": "Recover"
+  "TEXT_RECOVER": "Recover",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "Akzeptieren",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "Ablehnen",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY": "Datenschutzrichtlinie",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "Um deine Erfahrung mit diesem Spiel zu verbessern, analysieren wir, wie du spielst. Wir zeichnen zum Beispiel auf, ob ein bestimmtes Level immer wieder scheitert oder ob du irgendwo feststeckst. Diese App verwendet eine Werbetechnologie, die Anzeigen für dich personalisieren kann, wenn du es erlaubst. Deine IP-Adresse, Geräte-Werbe-IDs, Anzeigeninteraktionen und Gerätespezifikationen können genutzt werden, um dein Spielerlebnis zu verbessern. Es werden keine sensiblen Informationen gesammelt oder weitergegeben.\nFür personalisierte Werbung benötigen wir dein Einverständnis. Details findest du jederzeit in unserer Datenschutzrichtlinie.\nDanke",
+  "TEXT_DISCLAIMER_OFFLINE_GAME": "Bitte beachte, dass dies ein Offline-Modus-Spiel ist. Spielstand und Daten gehen verloren, wenn Daten gelöscht, das Handy zurückgesetzt oder das Gerät gewechselt wird. Wir arbeiten daran, deinen Spielstand in zukünftigen Updates zu sichern.",
+  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "Haftungsausschluss",
+  "WATCH_AD_TO_UNLOCK": "Anzeige ansehen, um freizuschalten"
 }
