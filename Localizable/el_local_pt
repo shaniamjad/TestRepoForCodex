@@ -661,6 +661,13 @@
 "TEXT_REPORT_THIS_ISSUE" : "Parece que o teu jogo não está a carregar. Por favor reporta o problema para nós conseguirmos resolvê-lo. Se receberes um Código da nossa parte, por favor recupera o teu jogo.",
 "TEXT_REPORT"  :  "Reportar",
 "TEXT_RECOVER" : "Recuperar",
-"MESSAGE_RESTART_GAME" : "Carrega OK e Reinicia o Jogo "
+"MESSAGE_RESTART_GAME" : "Carrega OK e Reinicia o Jogo ",
+"TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT" : "Aceitar",
+"TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE" : "Recusar",
+"TEXT_DISCLAIMER_PRIVACY_POLICY" : "Política de Privacidade",
+"TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION" : "Para melhorar a sua experiência com este jogo, analisamos como o joga. Por exemplo, registamos se um determinado nível é falhado repetidamente ou se fica preso em algum ponto do jogo. Esta aplicação possui tecnologia de publicidade que pode personalizar anúncios para si se o permitir. O seu endereço IP, IDs de publicidade do dispositivo, interações com anúncios e especificações do dispositivo podem ser usados para melhorar a sua experiência no jogo. Nenhuma informação sensível é recolhida ou partilhada.\nO seu consentimento é necessário para anúncios personalizados. Para mais detalhes, pode sempre consultar a nossa política de privacidade.\nObrigado",
+"TEXT_DISCLAIMER_OFFLINE_GAME" : "Tenha em atenção que este é um jogo em modo offline. O estado e os dados do jogo serão perdidos em caso de qualquer atividade, como eliminação de dados, reposição do telemóvel ou mudança de dispositivo. Estamos a trabalhar para manter o estado do jogo seguro para si nas próximas atualizações.",
+"TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER" : "Aviso",
+"WATCH_AD_TO_UNLOCK" : "Veja um anúncio para desbloquear"
 
 }

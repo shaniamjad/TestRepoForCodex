@@ -659,6 +659,13 @@
 "TEXT_LOADING_FAIL"  :  "Tải thất bại",
 "TEXT_REPORT_THIS_ISSUE" : "Game của bạn đang không tải. Vui lòng báo cáo sự cố cho chúng tôi sửa chữa. Nếu bạn đã nhận mã từ chúng tôi, vui lòng khôi phục lại game",
 "TEXT_REPORT"  :  "Báo cáo",
-"TEXT_RECOVER" : "Khôi phục"
+"TEXT_RECOVER" : "Khôi phục",
+"TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT" : "Chấp nhận",
+"TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE" : "Từ chối",
+"TEXT_DISCLAIMER_PRIVACY_POLICY" : "Chính sách quyền riêng tư",
+"TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION" : "Để cải thiện trải nghiệm của bạn với trò chơi này, chúng tôi phân tích cách bạn chơi. Ví dụ, chúng tôi ghi lại nếu một cấp độ nào đó bị thất bại nhiều lần hoặc nếu bạn bị kẹt ở đâu đó trong trò chơi. Ứng dụng này có công nghệ quảng cáo có thể cá nhân hóa quảng cáo cho bạn nếu bạn cho phép. Địa chỉ IP, mã quảng cáo của thiết bị, tương tác quảng cáo và thông số thiết bị của bạn có thể được sử dụng để cải thiện trải nghiệm trong trò chơi. Không thu thập hoặc chia sẻ thông tin nhạy cảm.\nCần có sự đồng ý của bạn cho quảng cáo được cá nhân hóa. Để biết chi tiết, bạn luôn có thể xem chính sách quyền riêng tư của chúng tôi.\nCảm ơn",
+"TEXT_DISCLAIMER_OFFLINE_GAME" : "Lưu ý đây là trò chơi ở chế độ ngoại tuyến. Trạng thái và dữ liệu trò chơi sẽ bị mất nếu có bất kỳ hoạt động nào như xóa dữ liệu, đặt lại điện thoại hoặc thay đổi thiết bị. Chúng tôi đang làm việc để giữ an toàn trạng thái trò chơi cho bạn trong các bản cập nhật tới.",
+"TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER" : "Tuyên bố miễn trừ",
+"WATCH_AD_TO_UNLOCK" : "Xem quảng cáo để mở khóa"
 
 }
