@@ -662,11 +662,11 @@
   "TEXT_RECOVER GAME": "ゲームを回復する",
   "MESSAGE_RESTART_GAME": "[OK]をクリックし、ゲームを再起動します。 ",
   "MESSAGE_DOWNLOAD_FAIL": "ダウンロードの失敗後でもう一度試してください",
-  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "Terima",
-  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "Tolak",
-  "TEXT_DISCLAIMER_PRIVACY_POLICY": "Kebijakan Privasi",
-  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "Untuk meningkatkan pengalaman Anda dengan game ini kami menganalisis cara Anda bermain. Misalnya kami mencatat jika suatu level terus-menerus gagal atau jika Anda terjebak. Aplikasi ini memiliki teknologi iklan yang dapat mempersonalisasi iklan untuk Anda jika Anda mengizinkannya. Alamat IP Anda, ID iklan perangkat, interaksi iklan, dan spesifikasi perangkat dapat digunakan untuk meningkatkan pengalaman bermain Anda. Tidak ada informasi sensitif yang dikumpulkan atau dibagikan.\nPersetujuan Anda diperlukan untuk iklan yang dipersonalisasi. Untuk detailnya Anda selalu dapat melihat kebijakan privasi kami.\nTerima kasih",
-  "TEXT_DISCLAIMER_OFFLINE_GAME": "Harap dicatat bahwa ini adalah game mode offline. Status dan data game akan hilang jika ada penghapusan data, reset ponsel, atau perubahan perangkat. Kami sedang berupaya menjaga status game Anda tetap aman pada pembaruan mendatang.",
-  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "Penafian",
-  "WATCH_AD_TO_UNLOCK": "Tonton iklan untuk membuka"
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "同意する",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "拒否する",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY": "プライバシーポリシー",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "このゲームでの体験を向上させるため、私たちはあなたのプレイ方法を分析します。例えば、特定のレベルが何度も失敗しているか、どこかで行き詰まっているかを記録します。このアプリは、許可した場合に広告をパーソナライズできる広告技術を使用しています。あなたのIPアドレス、デバイスの広告ID、広告へのエンゲージメント、デバイス仕様は、ゲーム体験を向上させるために使用される場合があります。機密情報は収集も共有もされません。\nパーソナライズされた広告にはあなたの同意が必要です。詳細はいつでもプライバシーポリシーをご覧いただけます。\nありがとうございます",
+  "TEXT_DISCLAIMER_OFFLINE_GAME": "これはオフラインモードのゲームですのでご注意ください。データを削除したり、端末をリセットしたり、デバイスを変更した場合、ゲームの状態やデータは失われます。今後のアップデートでゲームの状態を安全に保てるよう取り組んでいます。",
+  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "免責事項",
+  "WATCH_AD_TO_UNLOCK": "広告を見てアンロック"
 }
