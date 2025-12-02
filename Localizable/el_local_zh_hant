@@ -659,5 +659,12 @@
   "SUCCESSFUL_LABLE": "Successfull",
   "FAILED_LABEL": "Failed",
   "WHAT_YOUR_CODE": "Recover Game",
-  "FIRST_DRAFT_FOR_LOCALIZATION_DONE_AT": "26-Sep-13"
+  "FIRST_DRAFT_FOR_LOCALIZATION_DONE_AT": "26-Sep-13",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "接受",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "拒絕",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY": "隱私政策",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "為了改善您的遊戲體驗，我們會分析您的遊玩方式。例如我們會記錄某個關卡是否一再失敗或您是否卡關。若您允許，本應用的廣告技術可以為您個人化廣告。您的 IP 位址、裝置廣告 ID、廣告互動以及裝置規格可能會用來改進遊戲體驗。不會收集或分享任何敏感資訊。\n我們需要您的同意才能提供個人化廣告。詳細資訊可隨時查看我們的隱私政策。\n感謝",
+  "TEXT_DISCLAIMER_OFFLINE_GAME": "請注意這是離線模式的遊戲。刪除資料、重設手機或更換設備時，遊戲狀態和資料將會遺失。我們正努力在後續更新中為您保護遊戲進度。",
+  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "免責聲明",
+  "WATCH_AD_TO_UNLOCK": "觀看廣告即可解鎖"
 }

@@ -661,5 +661,12 @@
   "TEXT_LOADING_FAIL": "Loading Fail",
   "TEXT_REPORT_THIS_ISSUE": "It seems your game is not loading. Please report the issue so that we can fix it for you.If you have recive code from us please recover your game.",
   "TEXT_REPORT": "Report",
-  "TEXT_RECOVER": "Recover"
+  "TEXT_RECOVER": "Recover",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "قبول",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "رفض",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY": "سياسة الخصوصية",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "لتحسين تجربتك مع هذه اللعبة نقوم بتحليل طريقة لعبك. على سبيل المثال نسجل إذا كان مستوى معين يفشل مرارًا أو إذا علقت في مكان ما داخل اللعبة. يستخدم هذا التطبيق تقنية إعلانية يمكنها تخصيص الإعلانات لك إذا سمحت بذلك. قد يتم استخدام عنوان IP الخاص بك ومعرفات إعلانات الجهاز وتفاعلات الإعلانات ومواصفات الجهاز لتحسين تجربتك داخل اللعبة. لا يتم جمع أي معلومات حساسة أو مشاركتها.\nنحتاج إلى موافقتك للإعلانات المخصصة. للتفاصيل يمكنك دائمًا الاطلاع على سياسة الخصوصية الخاصة بنا.\nشكرًا لك",
+  "TEXT_DISCLAIMER_OFFLINE_GAME": "يرجى ملاحظة أن هذه لعبة وضع غير متصل بالإنترنت. سيتم فقدان حالة اللعبة والبيانات في حالة حذف البيانات أو إعادة ضبط الهاتف أو تغيير الجهاز. نحن نعمل على الحفاظ على حالة اللعبة آمنة لك في التحديثات القادمة.",
+  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "تنويه",
+  "WATCH_AD_TO_UNLOCK": "شاهد إعلانًا لفتحه"
 }

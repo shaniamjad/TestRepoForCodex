@@ -661,5 +661,12 @@
   "SEND_EMAIL": "Informar del problema",
   "TEXT_RECOVER GAME": "Reparar problema",
   "MESSAGE_RESTART_GAME": "Haga clic en Aceptar y reinicie el juego",
-  "MESSAGE_DOWNLOAD_FAIL": "Descargar Fail Try again Later"
+  "MESSAGE_DOWNLOAD_FAIL": "Descargar Fail Try again Later",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "Accetta",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "Rifiuta",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY": "Informativa sulla privacy",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "Per migliorare la tua esperienza con questo gioco analizziamo come giochi. Ad esempio registriamo se un determinato livello viene fallito più volte o se rimani bloccato. Questa app utilizza una tecnologia pubblicitaria che può personalizzare gli annunci se lo consenti. Il tuo indirizzo IP, gli ID pubblicitari del dispositivo, le interazioni con gli annunci e le specifiche del dispositivo possono essere usati per migliorare l'esperienza di gioco. Nessuna informazione sensibile viene raccolta o condivisa.\nIl tuo consenso è necessario per gli annunci personalizzati. Per i dettagli puoi sempre consultare la nostra informativa sulla privacy.\nGrazie",
+  "TEXT_DISCLAIMER_OFFLINE_GAME": "Tieni presente che questo è un gioco offline. Lo stato e i dati di gioco andranno persi in caso di eliminazione dei dati, ripristino del telefono o cambio dispositivo. Stiamo lavorando per mantenere sicuro lo stato del gioco nei prossimi aggiornamenti.",
+  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "Dichiarazione di non responsabilità",
+  "WATCH_AD_TO_UNLOCK": "Guarda un annuncio per sbloccare"
 }

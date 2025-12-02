@@ -661,5 +661,12 @@
   "TEXT_LOADING_FAIL": "불러오기 실패",
   "TEXT_REPORT_THIS_ISSUE": "게임이 로드되지 않는 것 같습니다. 문제를 보고해주시면 수정하겠습니다. 저희에게서 코드를 받았다면 게임을 복구하세요.",
   "TEXT_REPORT": "보고하기",
-  "TEXT_RECOVER": "복구"
+  "TEXT_RECOVER": "복구",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "동의",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "거부",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY": "개인정보 처리방침",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "이 게임에서 더 나은 경험을 제공하기 위해 우리는 당신의 플레이 방식을 분석합니다. 예를 들어 특정 레벨을 반복해서 실패하거나 어딘가에 갇혀 있는지를 기록합니다. 이 앱은 허용할 경우 광고를 개인화할 수 있는 광고 기술을 사용합니다. IP 주소, 기기 광고 ID, 광고 참여 정보 및 기기 사양은 게임 경험을 개선하는 데 사용될 수 있습니다. 민감한 정보는 수집하거나 공유하지 않습니다.\n개인화된 광고를 위해서는 당신의 동의가 필요합니다. 자세한 내용은 언제든지 개인정보 처리방침을 확인할 수 있습니다.\n감사합니다",
+  "TEXT_DISCLAIMER_OFFLINE_GAME": "이것은 오프라인 모드 게임입니다. 데이터 삭제, 휴대폰 초기화 또는 기기 변경 시 게임 상태와 데이터가 손실됩니다. 향후 업데이트에서 게임 상태를 안전하게 유지하기 위해 노력하고 있습니다.",
+  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "면책 조항",
+  "WATCH_AD_TO_UNLOCK": "광고를 보고 잠금 해제"
 }
