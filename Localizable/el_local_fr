@@ -659,5 +659,12 @@
 		"TEXT_LOADING_FAIL": "Pas de vidéo!!",
 		"TEXT_REPORT_THIS_ISSUE": "Acheter un nouveau tour maintenant ou plus tard pour visiter un tour gratuit.",
 		"TEXT_REPORT": "ACHETER \\ NNow",
-		"TEXT_RECOVER": "Obtenez Expérience rapide \\ NPOINTS & Déverrouillez item \\ nJouez"
+		"TEXT_RECOVER": "Obtenez Expérience rapide \\ NPOINTS & Déverrouillez item \\ nJouez",
+		"TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "Accepter",
+		"TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "Refuser",
+		"TEXT_DISCLAIMER_PRIVACY_POLICY": "Politique de confidentialité",
+		"TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "Pour améliorer votre expérience de jeu nous analysons votre façon de jouer. Par exemple nous enregistrons si un niveau échoue plusieurs fois ou si vous êtes bloqué. Cette application utilise une technologie publicitaire qui peut personnaliser les annonces si vous l'autorisez. Votre adresse IP, les identifiants publicitaires de l'appareil, les interactions avec les annonces et les spécifications de l'appareil peuvent être utilisés pour améliorer votre expérience de jeu. Aucune information sensible n'est collectée ni partagée.\nVotre consentement est nécessaire pour des annonces personnalisées. Pour plus de détails vous pouvez toujours consulter notre politique de confidentialité.\nMerci",
+		"TEXT_DISCLAIMER_OFFLINE_GAME": "Veuillez noter qu'il s'agit d'un jeu hors ligne. L'état et les données du jeu seront perdus en cas de suppression des données, de réinitialisation du mobile ou de changement d'appareil. Nous travaillons à sécuriser l'état du jeu dans les prochaines mises à jour.",
+		"TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "Avertissement",
+		"WATCH_AD_TO_UNLOCK": "Regarder une pub pour déverrouiller"
 }

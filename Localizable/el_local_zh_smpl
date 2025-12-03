@@ -654,5 +654,17 @@
   "SEND_EMAIL": "备份游戏",
   "TEXT_RECOVER GAME": "恢复游戏",
   "MESSAGE_RESTART_GAME": "单击确定并重新启动游戏",
-  "MESSAGE_DOWNLOAD_FAIL": "下载失败请稍后重试"
+  "MESSAGE_DOWNLOAD_FAIL": "下载失败请稍后重试",
+  "TEXT_ALREADY_REWARDED": "You have already availed this reward, Please join our facebook page for new updates!",
+  "SUCCESSFUL_LABLE": "Successfull",
+  "FAILED_LABEL": "Failed",
+  "WHAT_YOUR_CODE": "Recover Game",
+  "FIRST_DRAFT_FOR_LOCALIZATION_DONE_AT": "26-Sep-13",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_ACCEPT": "接受",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DECLINE": "拒绝",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY": "隐私政策",
+  "TEXT_DISCLAIMER_PRIVACY_POLICY_DESCRIPTION": "为了改进您的游戏体验，我们会分析您的玩法。例如我们会记录某个关卡是否反复失败或您是否卡关。本应用的广告技术可以在您允许的情况下为您个性化广告。您的 IP 地址、设备广告 ID、广告互动和设备规格可能会用于改进游戏体验。不会收集或共享任何敏感信息。\n我们需要您的同意才能提供个性化广告。详情可随时查看我们的隐私政策。\n谢谢",
+  "TEXT_DISCLAIMER_OFFLINE_GAME": "请注意这是离线模式的游戏。删除数据、重置手机或更换设备时，游戏状态和数据都会丢失。我们正在努力在后续更新中为您保护游戏进度。",
+  "TEXT_DISCLAIMER_OFFLINE_GAME_DISCLAIMER": "免责声明",
+  "WATCH_AD_TO_UNLOCK": "观看广告以解锁"
 }
