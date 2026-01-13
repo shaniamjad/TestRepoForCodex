@@ -1,0 +1,19 @@
+{
+    "level0-4": {
+        "words_count": "4-6",
+        "difficulty": 1,
+        "grid_size": [
+            "6x6",
+            "6x7",
+            "7x6"
+        ],
+        "directions":[
+            "Down",
+            "Right"
+        ]
+        "category": [
+            "Animal",
+            "Places"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "millipede": [
+          "A tiny animal with many legs",
+          "A slow crawler found under rocks",
+          "An insect-like animal that curls up",
+          "A long bug with lots of legs",
+          "A ____ has many tiny legs",
+          "You may find a ____ under leaves",
+          "A ____ curls into a ball when scared",
+          "A ____ moves slowly on the ground"
+        ]
+      },
+      {
+        "kidgoat": [
+          "A baby goat on a farm",
+          "A young goat that likes to jump",
+          "A small farm animal that drinks milk",
+          "A playful baby goat",
+          "A ____ stays close to its mother",
+          "Farmers call a baby goat a ____",
+          "A ____ hops and plays in fields",
+          "A ____ drinks milk from its mom"
+        ]
+      }
+]
