@@ -1,19 +1,32 @@
 {
-    "level0-4": {
+    "level0": {
         "words_count": "4-6",
         "difficulty": 1,
         "grid_size": [
-            "6x6",
-            "6x7",
-            "7x6"
-        ],
-        "directions":[
-            "Down",
-            "Right"
+            "6x6"
         ],
         "category": [
-            "Animal",
-            "Places"
+            "Animal"
+        ]
+    },
+    "level1": {
+        "words_count": "4-6",
+        "difficulty": 1,
+        "grid_size": [
+            "6x6"
+        ],
+        "category": [
+            "Travel"
+        ]
+    },
+    "level2": {
+        "words_count": "4-6",
+        "difficulty": 1,
+        "grid_size": [
+            "6x6"
+        ],
+        "category": [
+            "Household"
         ]
     }
 }
