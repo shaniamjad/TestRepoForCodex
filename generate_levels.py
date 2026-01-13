@@ -2,7 +2,7 @@
 import json
 import random
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Union
 
 ROOT = Path(__file__).resolve().parent
 CONFIG_PATH = ROOT / "LevelDesignConfig.json"
@@ -46,11 +46,45 @@ def _difficulty_to_hard_ratio(difficulty: int) -> float:
     return max(0.0, ((difficulty - 1) / 9.0) * max_ratio)
 
 
-def _load_words(category: str, difficulty: str) -> List[str]:
+def _normalize_words(
+    raw: Union[Dict[str, object], List[object]],
+) -> Dict[str, List[str]]:
+    if isinstance(raw, dict):
+        normalized: Dict[str, List[str]] = {}
+        for word, phrases in raw.items():
+            if isinstance(phrases, dict):
+                phrases = phrases.get("phrases") or phrases.get("phrase") or []
+            if isinstance(phrases, list):
+                normalized[str(word)] = [str(p) for p in phrases] or [str(word)]
+            else:
+                normalized[str(word)] = [str(phrases)]
+        return normalized
+
+    if isinstance(raw, list):
+        if all(isinstance(item, str) for item in raw):
+            return {item: [item] for item in raw}
+        normalized = {}
+        for item in raw:
+            if not isinstance(item, dict):
+                continue
+            word = item.get("word")
+            if not word:
+                continue
+            phrases = item.get("phrases") or item.get("phrase") or []
+            if isinstance(phrases, str):
+                phrases = [phrases]
+            normalized[str(word)] = [str(p) for p in phrases] or [str(word)]
+        return normalized
+
+    raise ValueError("Category words must be a dict or list.")
+
+
+def _load_words(category: str, difficulty: str) -> Dict[str, List[str]]:
     path = CATEGORIES_DIR / f"{category}-{difficulty}.json"
     if not path.exists() and difficulty == "hard":
         path = CATEGORIES_DIR / f"{category}-normal.json"
-    return _load_json(path)
+    raw_words = _load_json(path)
+    return _normalize_words(raw_words)
 
 
 def _pick_words(
@@ -67,7 +101,7 @@ def _pick_words(
     normal_pool = [c for c in allowed_categories if c in normal_categories] or allowed_categories
     hard_pool = [c for c in allowed_categories if c in hard_categories] or allowed_categories
 
-    cache: Dict[Tuple[str, str], List[str]] = {}
+    cache: Dict[Tuple[str, str], Dict[str, List[str]]] = {}
     chosen_words: List[Dict[str, str]] = []
     used_words = set()
     categories_used = set()
@@ -75,7 +109,7 @@ def _pick_words(
     def pick_from(category: str, difficulty: str) -> Tuple[str, str]:
         key = (category, difficulty)
         if key not in cache:
-            cache[key] = list(_load_words(category, difficulty))
+            cache[key] = _load_words(category, difficulty)
         options = [word for word in cache[key] if len(word) <= max_word_length]
         if not options:
             raise ValueError(
@@ -85,10 +119,10 @@ def _pick_words(
         for word in options:
             if word not in used_words:
                 used_words.add(word)
-                phrase = random.choice(cache[key])
+                phrase = random.choice(cache[key].get(word, [word]))
                 return word, phrase
         word = random.choice(options)
-        phrase = random.choice(cache[key])
+        phrase = random.choice(cache[key].get(word, [word]))
         return word, phrase
 
     for _ in range(normal_target):
